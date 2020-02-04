@@ -1,0 +1,6 @@
+framework module Pods_ExerciseRx {
+  umbrella header "Pods-ExerciseRx-umbrella.h"
+
+  export *
+  module * { export * }
+}
